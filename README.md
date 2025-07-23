@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/scofieldmr/leet-code/tree/master/0169-majority-element) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/scofieldmr/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/scofieldmr/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
