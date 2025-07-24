@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scofieldmr/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/scofieldmr/leet-code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/scofieldmr/leet-code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/scofieldmr/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
@@ -49,9 +50,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scofieldmr/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/scofieldmr/leet-code/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/scofieldmr/leet-code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
