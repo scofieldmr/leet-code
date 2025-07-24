@@ -8,7 +8,7 @@ class Solution {
             if(dup!=nums[i]){
                 nums[j]=nums[i];
                 dup=nums[i];
-                 j++;
+                j++;
             }
         }
 
