@@ -13,19 +13,18 @@ class Solution {
         }
 
         return maxProfit;
-        // int maxProfit = 0;
 
+
+        // int maxProfit = 0;
+        // int minPrice = Integer.MAX_VALUE;
         // for(int i=0;i<prices.length;i++){
-        //     for(int j=i+1;j<prices.length;j++){
-        //         if(prices[i]>prices[j]){
-        //             continue;
-        //         }
-        //         if(prices[i]<prices[j] && maxProfit<prices[j]-prices[i]){
-        //                 maxProfit = prices[j]-prices[i];
+        //      if(prices[i]<minPrice){
+        //             minPrice = prices[i];
+        //       }
+        //       else if(prices[i]-minPrice>maxProfit){
+        //                 maxProfit = prices[i]-minPrice;
         //         }
         //     }
-        // }
-       
 
         // return maxProfit;
         
