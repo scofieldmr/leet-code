@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/scofieldmr/leet-code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
 | [2714-left-and-right-sum-differences](https://github.com/scofieldmr/leet-code/tree/master/2714-left-and-right-sum-differences) |
+| [2777-find-the-distinct-difference-array](https://github.com/scofieldmr/leet-code/tree/master/2777-find-the-distinct-difference-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/scofieldmr/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
+| [2777-find-the-distinct-difference-array](https://github.com/scofieldmr/leet-code/tree/master/2777-find-the-distinct-difference-array) |
 ## Divide and Conquer
 |  |
 | ------- |
