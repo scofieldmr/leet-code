@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
 | [2714-left-and-right-sum-differences](https://github.com/scofieldmr/leet-code/tree/master/2714-left-and-right-sum-differences) |
 | [2777-find-the-distinct-difference-array](https://github.com/scofieldmr/leet-code/tree/master/2777-find-the-distinct-difference-array) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/scofieldmr/leet-code/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/scofieldmr/leet-code/tree/master/1013-fibonacci-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/scofieldmr/leet-code/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/scofieldmr/leet-code/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/scofieldmr/leet-code/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/scofieldmr/leet-code/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/scofieldmr/leet-code/tree/master/2714-left-and-right-sum-differences) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/scofieldmr/leet-code/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+## Simulation
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/scofieldmr/leet-code/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+## Combinatorics
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/scofieldmr/leet-code/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 <!---LeetCode Topics End-->
