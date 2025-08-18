@@ -1,28 +1,36 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        
 
-
-        int index = 0;
-        while (index < nums.length) {
-            int correctIndex = nums[index];
-            if(nums[index]!=nums[correctIndex]) {
-                int temp = nums[index];
-                nums[index] = nums[correctIndex];
-                nums[correctIndex] = temp;
+        int i = 0;
+        while (i < nums.length) {
+            int correct = nums[i];
+            if(nums[i]!=nums[correct]) {
+                int temp = nums[i];
+                nums[i] = nums[correct];
+                nums[correct] = temp;
             }
             else{
-                index++;
+                i++;
             }
         }
 
-        for (int i = 0; i < nums.length; i++) {
-            if(nums[i]!=i){
-                return nums[i];
+        for (int j = 0; j < nums.length; j++) {
+            if(nums[j]!=j){
+                return nums[j];
             }
         }
 
-        return nums.length;
+        return -1;
+
+        // Arrays.sort(nums);
+        // for (int i = 0; i < nums.length; i++) {
+        //     if(nums[i]==nums[i+1]){
+        //       return nums[i];
+        //     }
+        // }
+        // return nums.length;
+
+    
         
     }
 }
