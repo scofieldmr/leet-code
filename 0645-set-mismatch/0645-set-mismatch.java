@@ -14,16 +14,15 @@ class Solution {
             }
         }
 
-        int [] lossNum = new int[2];
+        int [] lossNum = {-1,-1};
 
         for(int i=0;i<nums.length;i++){
             if(nums[i]!=(i+1)){
-                lossNum[0] = nums[i];
-                lossNum[1] = i+1;
+                return new int[] {nums[i],(i+1)};
             }
         }
 
-        return lossNum;
+        return new int[] {-1,-1};
         
     }
 }
