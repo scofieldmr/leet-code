@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/scofieldmr/leet-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/scofieldmr/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/scofieldmr/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/scofieldmr/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/scofieldmr/leet-code/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/scofieldmr/leet-code/tree/master/0560-subarray-sum-equals-k) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/scofieldmr/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/scofieldmr/leet-code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/scofieldmr/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/scofieldmr/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/scofieldmr/leet-code/tree/master/0560-subarray-sum-equals-k) |
