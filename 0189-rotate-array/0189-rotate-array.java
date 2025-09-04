@@ -1,31 +1,23 @@
 class Solution {
     public void rotate(int[] nums, int k) {
 
-        int len = nums.length-1;
-        k = k%nums.length;
+        k = k % nums.length;
 
-        rotateArray(nums,0,len);
-
-        rotateArray(nums,0,k-1);
-
-        rotateArray(nums,k,len);
-        
+        rotate(nums,0,nums.length-1);
+        rotate(nums,0,k-1);
+        rotate(nums,k,nums.length-1);
         
     }
 
-     static int [] rotateArray(int [] arr, int start, int end){
-       
-       while(start<end){
-          int temp = arr[start];
-          arr[start] =arr[end];
-          arr[end] = temp;
-          start++;
-          end--;
-       }
+     public static void rotate(int[] arr, int start, int end) {
 
-      return arr;
-       
+       while (start < end) {
+           int temp = arr[start];
+           arr[start] = arr[end];
+           arr[end] = temp;
+           start++;
+           end--;
+       }
     }
 
 }
-
