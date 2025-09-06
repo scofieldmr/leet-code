@@ -2,26 +2,27 @@ class Solution {
     public int[] countBits(int n) {
         int [] noOf1Bits = new int[n+1];
 
-        for (int i = 0; i <= n; i++) {
-            noOf1Bits[i] = countingBits(i,0);
+        for (int i = 1; i <= n; i++) {
+            // noOf1Bits[i] = countingBits(i,0);
+            noOf1Bits[i] = noOf1Bits[i>>1] + (i&1);
         }
         
         return noOf1Bits;
     }
 
-     static int countingBits(int n, int count) {
+    //  static int countingBits(int n, int count) {
 
-        if (n == 0)
-            return count;
+    //     if (n == 0)
+    //         return count;
         
-       int rem = n & 1;
+    //    int rem = n & 1;
 
-        if (rem == 1){
-            count++;
-        }
+    //     if (rem == 1){
+    //         count++;
+    //     }
 
-        return countingBits(n>>1, count);
-      }
+    //     return countingBits(n>>1, count);
+    //   }
 }
     // public int[] countBits(int n) {
     //     int [] noOf1Bits = new int[n+1];
