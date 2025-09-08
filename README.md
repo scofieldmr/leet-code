@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scofieldmr/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/scofieldmr/leet-code/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/scofieldmr/leet-code/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/scofieldmr/leet-code/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/scofieldmr/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/scofieldmr/leet-code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scofieldmr/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/scofieldmr/leet-code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/scofieldmr/leet-code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/scofieldmr/leet-code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/scofieldmr/leet-code/tree/master/0191-number-of-1-bits) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/scofieldmr/leet-code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/scofieldmr/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/scofieldmr/leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/scofieldmr/leet-code/tree/master/0338-counting-bits) |
