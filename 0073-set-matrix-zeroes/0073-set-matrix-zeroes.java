@@ -1,32 +1,35 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
 
-        Set<Integer> rows = new HashSet<>();
-        Set<Integer> cols = new HashSet<>();
+        List<Integer> list = new ArrayList<>();
 
         for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[i].length; j++) {
+            for (int j = 0; j < matrix[0].length; j++) {
                 if (matrix[i][j] == 0) {
-                    rows.add(i);
-                    cols.add(j);
+                    list.add(i);
+                    list.add(j);
                 }
             }
         }
 
-        for (int row : rows) {
-            for (int j = 0; j < matrix[row].length; j++) {
-                matrix[row][j] = 0;
-            }
-        }
-
-
-        for (int col : cols) {
-            for (int i = 0; i < matrix.length; i++) {
-                matrix[i][col] = 0;
-            }
-        }
-
-        System.out.println(Arrays.deepToString(matrix));
+       for (int i = 0; i < list.size(); i++) {
+           if(i%2==0){
+               int temp = list.get(i);
+               for(int m=0;m< matrix.length;m++){
+                   for(int n=0;n< matrix[0].length;n++){
+                        matrix[temp][n]=0;
+                   }
+               }
+           }
+           else{
+               int temp = list.get(i);
+               for(int m=0;m< matrix.length;m++){
+                   for(int n=0;n< matrix[0].length;n++){
+                       matrix[m][temp]=0;
+                   }
+               }
+           }
+       }
         
     }
 }
