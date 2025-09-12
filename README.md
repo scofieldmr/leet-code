@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/scofieldmr/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/scofieldmr/leet-code/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/scofieldmr/leet-code/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/scofieldmr/leet-code/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/scofieldmr/leet-code/tree/master/0861-flipping-an-image) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/scofieldmr/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2102-find-the-middle-index-in-array](https://github.com/scofieldmr/leet-code/tree/master/2102-find-the-middle-index-in-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/scofieldmr/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/scofieldmr/leet-code/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
