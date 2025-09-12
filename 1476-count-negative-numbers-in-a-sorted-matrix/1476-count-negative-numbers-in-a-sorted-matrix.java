@@ -9,7 +9,7 @@ class Solution {
     }
 
      private static int countNegatives(int[] nums) {
-        Arrays.sort(nums);
+        int n = nums.length;
         int start = 0;
         int end = nums.length - 1;
         int negCount = 0;
@@ -18,11 +18,11 @@ class Solution {
             int mid = start + (end - start) / 2;
 
             if(nums[mid]<0){
-                negCount = mid + 1;;
-                start = mid +1;
+                negCount = n - mid;
+                end = mid - 1;
             }
             else{
-                end = mid -1;
+                start = mid+1;
             }
         }
 
