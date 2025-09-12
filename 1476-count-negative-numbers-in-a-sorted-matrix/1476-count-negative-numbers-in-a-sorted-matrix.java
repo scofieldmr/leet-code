@@ -1,11 +1,29 @@
 class Solution {
     public int countNegatives(int[][] grid) {
-        int sum = 0;
-        for (int nums[] :grid) {
-            sum = sum + countNegatives(nums);
+         int m = grid.length;
+        int n = grid[0].length;
+        int row= 0;
+        int col= n-1;
+        int counter = 0;
+
+        while (row < m && col >= 0) {
+            if(grid[row][col]<0) {
+                counter = counter + (m - row);
+                col--;
+            }
+            else{
+                row++;
+            }
         }
 
-        return sum;
+        return counter;
+
+        // int sum = 0;
+        // for (int nums[] :grid) {
+        //     sum = sum + countNegatives(nums);
+        // }
+
+        // return sum;
     }
 
      private static int countNegatives(int[] nums) {
