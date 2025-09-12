@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/scofieldmr/leet-code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/scofieldmr/leet-code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/scofieldmr/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/scofieldmr/leet-code/tree/master/2714-left-and-right-sum-differences) |
 | [2777-find-the-distinct-difference-array](https://github.com/scofieldmr/leet-code/tree/master/2777-find-the-distinct-difference-array) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/scofieldmr/leet-code/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/scofieldmr/leet-code/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/scofieldmr/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/scofieldmr/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/scofieldmr/leet-code/tree/master/0792-binary-search) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/scofieldmr/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
