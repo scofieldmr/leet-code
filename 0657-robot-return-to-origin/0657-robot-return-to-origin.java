@@ -18,11 +18,7 @@ class Solution {
             }
         }
 
-        if(rlCount==0 && udCount==0){
-            return true;
-        }
-
-        return false;
+        return rlCount==0 && udCount==0;
         
     }
 }
