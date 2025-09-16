@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/scofieldmr/leet-code/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/scofieldmr/leet-code/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/scofieldmr/leet-code/tree/master/0861-flipping-an-image) |
+| [1293-three-consecutive-odds](https://github.com/scofieldmr/leet-code/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/scofieldmr/leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/scofieldmr/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2102-find-the-middle-index-in-array](https://github.com/scofieldmr/leet-code/tree/master/2102-find-the-middle-index-in-array) |
