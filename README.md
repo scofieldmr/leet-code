@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/scofieldmr/leet-code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/scofieldmr/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/scofieldmr/leet-code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/scofieldmr/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/scofieldmr/leet-code/tree/master/0128-longest-consecutive-sequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/scofieldmr/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/scofieldmr/leet-code/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/scofieldmr/leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/scofieldmr/leet-code/tree/master/0151-reverse-words-in-a-string) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/scofieldmr/leet-code/tree/master/0682-baseball-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/scofieldmr/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
