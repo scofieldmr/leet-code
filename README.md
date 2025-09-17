@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/scofieldmr/leet-code/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/scofieldmr/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/scofieldmr/leet-code/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/scofieldmr/leet-code/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/scofieldmr/leet-code/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/scofieldmr/leet-code/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/scofieldmr/leet-code/tree/master/0861-flipping-an-image) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/scofieldmr/leet-code/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/scofieldmr/leet-code/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/scofieldmr/leet-code/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/scofieldmr/leet-code/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/scofieldmr/leet-code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/scofieldmr/leet-code/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/scofieldmr/leet-code/tree/master/0182-duplicate-emails) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/scofieldmr/leet-code/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/scofieldmr/leet-code/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
