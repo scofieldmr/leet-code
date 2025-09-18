@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/scofieldmr/leet-code/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/scofieldmr/leet-code/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/scofieldmr/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/scofieldmr/leet-code/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/scofieldmr/leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/scofieldmr/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/scofieldmr/leet-code/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
