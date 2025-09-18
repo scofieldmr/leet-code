@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/scofieldmr/leet-code/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/scofieldmr/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/scofieldmr/leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/scofieldmr/leet-code/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/scofieldmr/leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/scofieldmr/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -245,4 +246,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/scofieldmr/leet-code/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/scofieldmr/leet-code/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
