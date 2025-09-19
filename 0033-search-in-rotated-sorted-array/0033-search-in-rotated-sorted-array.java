@@ -7,9 +7,13 @@ class Solution {
         if(peakIndex==-1){
             return search(nums,target,0,nums.length-1);
         }
+
+        if(target == nums[peakIndex]){
+            return peakIndex;
+        }
         
         if (target >= nums[0]) {
-            return search(nums, target, 0, peakIndex);
+            return search(nums, target, 0, peakIndex-1);
         }
 
 
