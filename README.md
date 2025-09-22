@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/scofieldmr/leet-code/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/scofieldmr/leet-code/tree/master/0657-robot-return-to-origin) |
+| [0812-rotate-string](https://github.com/scofieldmr/leet-code/tree/master/0812-rotate-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/scofieldmr/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Heap (Priority Queue)
 |  |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/scofieldmr/leet-code/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/scofieldmr/leet-code/tree/master/0374-guess-number-higher-or-lower) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/scofieldmr/leet-code/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
