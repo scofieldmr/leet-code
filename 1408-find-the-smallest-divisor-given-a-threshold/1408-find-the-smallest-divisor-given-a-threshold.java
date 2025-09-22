@@ -1,37 +1,66 @@
 class Solution {
-    public int smallestDivisor(int[] nums, int threshold) {
-        if(nums.length>threshold){
-             return -1;
-         }
-         int start = 0;
+     public int smallestDivisor(int[] nums, int threshold) {
+         int start = 1;
          int maxi = Integer.MIN_VALUE;
          for(int n : nums) {
             maxi = Math.max(maxi,n);
          }
          int end = maxi;
 
-         while (start <= end) {
+         while (start < end) {
              int mid = start + (end - start) / 2;
 
-             int sum = SumOfArray(nums, mid);
-
-             if(sum <= threshold) {
-                 end = mid-1;
+             if(checkSum(nums,mid,threshold)){
+                 end = mid;
              }
-             else {
+             else{
                  start = mid + 1;
              }
          }
          return start;
-    }
+     }
 
-     public static int SumOfArray(int[] nums,int divisor) {
-        int sum = 0;
-        for (int i = 0; i < nums.length; i++) {
-            sum += Math.ceil((double)(nums[i]) / (double)(divisor));
+      public static boolean checkSum(int[] nums, int div, int threshold) {
+        int total = 0;
+        for (int a: nums) {
+            total +=(a+div-1)/div;
         }
-        return sum;
+        return total<=threshold;
     }
+}
+    // public int smallestDivisor(int[] nums, int threshold) {
+    //     if(nums.length>threshold){
+    //          return -1;
+    //      }
+    //      int start = 0;
+    //      int maxi = Integer.MIN_VALUE;
+    //      for(int n : nums) {
+    //         maxi = Math.max(maxi,n);
+    //      }
+    //      int end = maxi;
+
+    //      while (start <= end) {
+    //          int mid = start + (end - start) / 2;
+
+    //          int sum = SumOfArray(nums, mid);
+
+    //          if(sum <= threshold) {
+    //              end = mid-1;
+    //          }
+    //          else {
+    //              start = mid + 1;
+    //          }
+    //      }
+    //      return start;
+    // }
+
+    //  public static int SumOfArray(int[] nums,int divisor) {
+    //     int sum = 0;
+    //     for (int i = 0; i < nums.length; i++) {
+    //         sum += Math.ceil((double)(nums[i]) / (double)(divisor));
+    //     }
+    //     return sum;
+    // }
 
     // public static int maxInArray(int[] nums) {
     //     int max = Integer.MIN_VALUE;
@@ -42,4 +71,3 @@ class Solution {
     //     }
     //     return max;
     // }
-}
