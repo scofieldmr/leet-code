@@ -4,7 +4,11 @@ class Solution {
              return -1;
          }
          int start = 0;
-         int end = maxInArray(nums);
+         int maxi = Integer.MIN_VALUE;
+         for(int n : nums) {
+            maxi = Math.max(maxi,n);
+         }
+         int end = maxi;
 
          while (start <= end) {
              int mid = start + (end - start) / 2;
@@ -29,13 +33,13 @@ class Solution {
         return sum;
     }
 
-    public static int maxInArray(int[] nums) {
-        int max = Integer.MIN_VALUE;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] > max) {
-                max = nums[i];
-            }
-        }
-        return max;
-    }
+    // public static int maxInArray(int[] nums) {
+    //     int max = Integer.MIN_VALUE;
+    //     for (int i = 0; i < nums.length; i++) {
+    //         if (nums[i] > max) {
+    //             max = nums[i];
+    //         }
+    //     }
+    //     return max;
+    // }
 }
