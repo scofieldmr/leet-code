@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/scofieldmr/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/scofieldmr/leet-code/tree/master/0645-set-mismatch) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/scofieldmr/leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
 | [2777-find-the-distinct-difference-array](https://github.com/scofieldmr/leet-code/tree/master/2777-find-the-distinct-difference-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/scofieldmr/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/scofieldmr/leet-code/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/scofieldmr/leet-code/tree/master/1078-remove-outermost-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/scofieldmr/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/scofieldmr/leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/scofieldmr/leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/scofieldmr/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Heap (Priority Queue)
