@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/scofieldmr/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/scofieldmr/leet-code/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/scofieldmr/leet-code/tree/master/2102-find-the-middle-index-in-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/scofieldmr/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/scofieldmr/leet-code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/scofieldmr/leet-code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/scofieldmr/leet-code/tree/master/1078-remove-outermost-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/scofieldmr/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2032-largest-odd-number-in-string](https://github.com/scofieldmr/leet-code/tree/master/2032-largest-odd-number-in-string) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/scofieldmr/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
