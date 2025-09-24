@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/scofieldmr/leet-code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/scofieldmr/leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/scofieldmr/leet-code/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/scofieldmr/leet-code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/scofieldmr/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/scofieldmr/leet-code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/scofieldmr/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/scofieldmr/leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/scofieldmr/leet-code/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/scofieldmr/leet-code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/scofieldmr/leet-code/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/scofieldmr/leet-code/tree/master/0387-first-unique-character-in-a-string) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/scofieldmr/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/scofieldmr/leet-code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/scofieldmr/leet-code/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/scofieldmr/leet-code/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/scofieldmr/leet-code/tree/master/0645-set-mismatch) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/scofieldmr/leet-code/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/scofieldmr/leet-code/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/scofieldmr/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
