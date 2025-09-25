@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/scofieldmr/leet-code/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/scofieldmr/leet-code/tree/master/2102-find-the-middle-index-in-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/scofieldmr/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/scofieldmr/leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/scofieldmr/leet-code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/scofieldmr/leet-code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/scofieldmr/leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/scofieldmr/leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/scofieldmr/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/scofieldmr/leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/scofieldmr/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/scofieldmr/leet-code/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/scofieldmr/leet-code/tree/master/0861-flipping-an-image) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/scofieldmr/leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/scofieldmr/leet-code/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
