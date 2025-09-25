@@ -12,6 +12,10 @@ class Solution {
             digSum = digSum + n;
         }
 
-        return Math.abs(sum-digSum);
+        if(sum<digSum){
+            return -1*(sum-digSum);
+        }
+
+        return sum-digSum;
     }
 }
