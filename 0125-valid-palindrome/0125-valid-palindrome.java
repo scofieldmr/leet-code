@@ -1,5 +1,4 @@
 class Solution {
-
     public boolean isPalindrome(String s) {
        
         StringBuilder sb = new StringBuilder();
@@ -47,9 +46,33 @@ class Solution {
         }
         return sb.toString();
     }
-
-    
 }
+
+//Using Recursion
+//  public boolean isPalindrome(String s) {
+//         String s1 = s.toLowerCase();
+//         return palindromeString(s1,0,s1.length()-1);
+//    }
+
+//     public static boolean palindromeString(String s,int start,int end) {
+//         if(start>=end){
+//             return true;
+//         }
+
+//     char left = s.charAt(start);
+//     char right = s.charAt(end);
+
+//     if (!Character.isLetterOrDigit(left)) {
+//         return palindromeString(s, start + 1, end);  
+//     } else if (!Character.isLetterOrDigit(right)) {
+//         return palindromeString(s, start, end - 1); 
+//     } else if (left != right) {
+//         return false; 
+//     }
+       
+//         return palindromeString(s,start+1,end-1);
+//     }
+// }
 
         // StringBuilder sb = new StringBuilder(s);
 
