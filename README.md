@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/scofieldmr/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/scofieldmr/leet-code/tree/master/2714-left-and-right-sum-differences) |
 | [2777-find-the-distinct-difference-array](https://github.com/scofieldmr/leet-code/tree/master/2777-find-the-distinct-difference-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/scofieldmr/leet-code/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/scofieldmr/leet-code/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/scofieldmr/leet-code/tree/master/3321-type-of-triangle) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/scofieldmr/leet-code/tree/master/3422-find-the-n-th-value-after-k-seconds) |
