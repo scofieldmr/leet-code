@@ -11,11 +11,8 @@ class Solution {
             }
             digSum = digSum + n;
         }
+        
 
-        if(sum<digSum){
-            return -1*(sum-digSum);
-        }
-
-        return sum-digSum;
+        return Math.abs(sum-digSum);
     }
 }
