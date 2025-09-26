@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/scofieldmr/leet-code/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/scofieldmr/leet-code/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/scofieldmr/leet-code/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/scofieldmr/leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/scofieldmr/leet-code/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/scofieldmr/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/scofieldmr/leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/scofieldmr/leet-code/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/scofieldmr/leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/scofieldmr/leet-code/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/scofieldmr/leet-code/tree/master/3321-type-of-triangle) |
 ## Counting
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/scofieldmr/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/scofieldmr/leet-code/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/scofieldmr/leet-code/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/scofieldmr/leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/scofieldmr/leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/scofieldmr/leet-code/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
