@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/scofieldmr/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/scofieldmr/leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/scofieldmr/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1791-richest-customer-wealth](https://github.com/scofieldmr/leet-code/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/scofieldmr/leet-code/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/scofieldmr/leet-code/tree/master/2102-find-the-middle-index-in-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/scofieldmr/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/scofieldmr/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0861-flipping-an-image](https://github.com/scofieldmr/leet-code/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/scofieldmr/leet-code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1791-richest-customer-wealth](https://github.com/scofieldmr/leet-code/tree/master/1791-richest-customer-wealth) |
 ## Trie
 |  |
 | ------- |
