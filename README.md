@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/scofieldmr/leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/scofieldmr/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/scofieldmr/leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3312-number-of-changing-keys](https://github.com/scofieldmr/leet-code/tree/master/3312-number-of-changing-keys) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
