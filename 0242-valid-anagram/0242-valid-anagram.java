@@ -4,26 +4,34 @@ class Solution {
         if (s.length()!=t.length()){
             return false;
         }
-        
-        int[] count = new int[26];
 
-        for(int i=0;i<s.length();i++){
-            int index = s.charAt(i)-'a';
-            count[index]= count[index]+1;
-        }
+        char[] s1 = s.toCharArray();
+        char[] t1 = t.toCharArray();
 
-        for(int i=0;i<t.length();i++){
-           int index = t.charAt(i)-'a';
-           count[index] = count[index]-1;
-        }
+        Arrays.sort(s1);
+        Arrays.sort(t1);
 
-        for(int i=0;i<count.length;i++){
-            if(count[i]!=0){
-                return false;
-            }
-        }
+        return Arrays.equals(s1,t1);
 
-        return true;
+        // int[] count = new int[26];
+
+        // for(int i=0;i<s.length();i++){
+        //     int index = s.charAt(i)-'a';
+        //     count[index]= count[index]+1;
+        // }
+
+        // for(int i=0;i<t.length();i++){
+        //    int index = t.charAt(i)-'a';
+        //    count[index] = count[index]-1;
+        // }
+
+        // for(int i=0;i<count.length;i++){
+        //     if(count[i]!=0){
+        //         return false;
+        //     }
+        // }
+
+        // return true;
         
     }
 }
