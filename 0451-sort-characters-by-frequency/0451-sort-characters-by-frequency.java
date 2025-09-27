@@ -1,29 +1,30 @@
 class Solution {
     public String frequencySort(String s) {
-       
-        Map<Character,Integer> map = new TreeMap<>();
+        Map<Character, Integer> map1= new HashMap<>();
 
-        for(char c : s.toCharArray()){
-            map.put(c,map.getOrDefault(c,0)+1);
+        for(int i=0; i<s.length(); i++){
+            char ch = s.charAt(i);
+            if(map1.containsKey(ch)){
+                    map1.put(ch, map1.get(ch)+1);
+                }
+                else{
+                    map1.put(ch, 1);
+                }
         }
 
-        List<Map.Entry<Character, Integer>> mapList= map.entrySet().stream().sorted(Comparator.comparingInt(Map.Entry::getValue)).collect(Collectors.toList());
+        Map<Character,Integer> newmap1 = map1.entrySet().stream().sorted(Map.Entry.<Character,Integer>comparingByValue().reversed())
+                        .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
 
 
-        StringBuilder builder = new StringBuilder();
-
-        int i = mapList.size()-1;
-        for(int j=0;j<mapList.size();j++){
-            var a = mapList.get(i);
-            for(int k=a.getValue();k>0;k--){
-                builder.append(a.getKey());
+        StringBuilder stringBuilder = new StringBuilder();
+        for(Map.Entry<Character,Integer> entry: newmap1.entrySet()){
+            int count = entry.getValue();
+            while (count>0){
+                stringBuilder.append(entry.getKey());
+                count--;
             }
-            i--;
         }
 
-        return builder.toString();
-
-        
-        
+        return stringBuilder.toString();
     }
 }
