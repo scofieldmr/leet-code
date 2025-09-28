@@ -1,20 +1,19 @@
 class Solution {
     public String longestPalindrome(String s) {
         
-        String rs = "";
-        int maxLength = 0;
+        StringBuilder rs = new StringBuilder();
         for(int i=0;i<s.length();i++){
             for(int j=i+1;j<=s.length();j++){
                 String s1 = s.substring(i,j);
-                if(isPalindrome(s1)){
+                   if(isPalindrome(s1)){
                     if(s1.length()>rs.length()){
-                        rs = s1;
+                        rs = new StringBuilder(s1);
                     }
                 }
             }
         }
 
-        return rs;
+        return rs.toString();
     
     }
 
