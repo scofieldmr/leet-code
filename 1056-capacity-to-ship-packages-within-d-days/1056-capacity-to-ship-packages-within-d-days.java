@@ -23,26 +23,40 @@ class Solution {
     }
 
      public static boolean shippingPossible(int[] weights, int days, int mid) {
-        int shipCount = 0;
+
+        int shipCount = 1;
         int totalWeight = 0;
-        int i = 0;
-        while(i < weights.length){
-            totalWeight += weights[i];
-            if(totalWeight == mid){
+
+        for (int w : weights) {
+            if (totalWeight + w > mid) {
                 shipCount++;
                 totalWeight = 0;
             }
-            else if(totalWeight > mid){
-                shipCount++;
-                totalWeight = weights[i];
-            }
-            i++;
+            totalWeight += w;
         }
 
-        if(totalWeight>0){
-            shipCount++;
-        }
+        return shipCount <= days;
 
-        return shipCount<=days;
+        // int shipCount = 0;
+        // int totalWeight = 0;
+        // int i = 0;
+        // while(i < weights.length){
+        //     totalWeight += weights[i];
+        //     if(totalWeight == mid){
+        //         shipCount++;
+        //         totalWeight = 0;
+        //     }
+        //     else if(totalWeight > mid){
+        //         shipCount++;
+        //         totalWeight = weights[i];
+        //     }
+        //     i++;
+        // }
+
+        // if(totalWeight>0){
+        //     shipCount++;
+        // }
+
+        // return shipCount<=days;
     }
 }
