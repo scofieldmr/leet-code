@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/scofieldmr/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/scofieldmr/leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/scofieldmr/leet-code/tree/master/2665-minimum-time-to-repair-cars) |
 | [2714-left-and-right-sum-differences](https://github.com/scofieldmr/leet-code/tree/master/2714-left-and-right-sum-differences) |
 | [2777-find-the-distinct-difference-array](https://github.com/scofieldmr/leet-code/tree/master/2777-find-the-distinct-difference-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/scofieldmr/leet-code/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/scofieldmr/leet-code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/scofieldmr/leet-code/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/scofieldmr/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/scofieldmr/leet-code/tree/master/2665-minimum-time-to-repair-cars) |
 ## Bit Manipulation
 |  |
 | ------- |
