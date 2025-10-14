@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/scofieldmr/leet-code/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/scofieldmr/leet-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/scofieldmr/leet-code/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/scofieldmr/leet-code/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/scofieldmr/leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/scofieldmr/leet-code/tree/master/1610-xor-operation-in-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/scofieldmr/leet-code/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/scofieldmr/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/scofieldmr/leet-code/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/scofieldmr/leet-code/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/scofieldmr/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/scofieldmr/leet-code/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/scofieldmr/leet-code/tree/master/0907-koko-eating-bananas) |
