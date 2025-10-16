@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/scofieldmr/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/scofieldmr/leet-code/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/scofieldmr/leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/scofieldmr/leet-code/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/scofieldmr/leet-code/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/scofieldmr/leet-code/tree/master/0812-rotate-string) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/scofieldmr/leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/scofieldmr/leet-code/tree/master/0812-rotate-string) |
 ## Number Theory
 |  |
