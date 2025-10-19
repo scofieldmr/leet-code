@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/scofieldmr/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/scofieldmr/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/scofieldmr/leet-code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/scofieldmr/leet-code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/scofieldmr/leet-code/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/scofieldmr/leet-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/scofieldmr/leet-code/tree/master/0242-valid-anagram) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/scofieldmr/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/scofieldmr/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/scofieldmr/leet-code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/scofieldmr/leet-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/scofieldmr/leet-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/scofieldmr/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/scofieldmr/leet-code/tree/master/0392-is-subsequence) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/scofieldmr/leet-code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/scofieldmr/leet-code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/scofieldmr/leet-code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/scofieldmr/leet-code/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/scofieldmr/leet-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/scofieldmr/leet-code/tree/master/0441-arranging-coins) |
