@@ -9,31 +9,45 @@
  * }
  */
 class Solution {
-    public ListNode middleNode(ListNode head) {
-        int len = getLength(head);
+     public ListNode middleNode(ListNode head) {
+       //Using slow and fast pointers
+       ListNode slow = head;
+       ListNode fast = head;
 
-        int mid = (len/2)+1;
+       while(fast!=null && fast.next!=null){
+          slow = slow.next;
+          fast = fast.next.next;
+       }
 
-        ListNode temp = head;
-        int currLen = 1;
+       return slow;
+      
+     }
+     //Using the length of the linked list
+    // public ListNode middleNode(ListNode head) {
+    //     int len = getLength(head);
 
-        while(currLen!=mid && temp!=null){
-            temp = temp.next;
-            currLen++;
-        }
+    //     int mid = (len/2)+1;
 
-        return temp;
-    }
+    //     ListNode temp = head;
+    //     int currLen = 1;
 
-    public int getLength(ListNode head){
-        ListNode curr = head;
-        int length = 0;
+    //     while(currLen!=mid && temp!=null){
+    //         temp = temp.next;
+    //         currLen++;
+    //     }
 
-        while(curr!=null){
-             length++;
-             curr = curr.next;
-        }
+    //     return temp;
+    // }
 
-        return length;
-    }
+    // public int getLength(ListNode head){
+    //     ListNode curr = head;
+    //     int length = 0;
+
+    //     while(curr!=null){
+    //          length++;
+    //          curr = curr.next;
+    //     }
+
+    //     return length;
+    // }
 }
