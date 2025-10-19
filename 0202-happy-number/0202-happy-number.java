@@ -1,26 +1,42 @@
 class Solution {
     public boolean isHappy(int n) {
-        Set<Integer> set=new HashSet<>();
-        int sqnum = n;
-        boolean flag = false;
 
-        while (!flag) {
-            sqnum = squareNum(sqnum);
-            if (set.contains(sqnum)) {
-                break;
-            }
-            if(sqnum == 1){
-                flag = true;
-                break;
-            }
-            set.add(sqnum);
+        //Using linked list cyclic
+        int slow = n;
+        int fast = squareNum(n);
+
+        while(slow!=1 && slow!=fast){
+            slow = squareNum(slow);
+            fast = squareNum(squareNum(fast));
         }
 
-        if(flag){
-            return true;
-        }
+        return slow==1;
+    
+   
+           
+
+        // //Using set
+        // Set<Integer> set=new HashSet<>();
+        // int sqnum = n;
+        // boolean flag = false;
+
+        // while (!flag) {
+        //     sqnum = squareNum(sqnum);
+        //     if (set.contains(sqnum)) {
+        //         break;
+        //     }
+        //     if(sqnum == 1){
+        //         flag = true;
+        //         break;
+        //     }
+        //     set.add(sqnum);
+        // }
+
+        // if(flag){
+        //     return true;
+        // }
         
-        return false;
+        // return false;
     }
 
      public static int squareNum(int num) {
