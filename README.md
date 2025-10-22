@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/scofieldmr/leet-code/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/scofieldmr/leet-code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/scofieldmr/leet-code/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/scofieldmr/leet-code/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
 | [2777-find-the-distinct-difference-array](https://github.com/scofieldmr/leet-code/tree/master/2777-find-the-distinct-difference-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/scofieldmr/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/scofieldmr/leet-code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/scofieldmr/leet-code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/scofieldmr/leet-code/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/scofieldmr/leet-code/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/scofieldmr/leet-code/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/scofieldmr/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/scofieldmr/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/scofieldmr/leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/scofieldmr/leet-code/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/scofieldmr/leet-code/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3194-find-words-containing-character](https://github.com/scofieldmr/leet-code/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/scofieldmr/leet-code/tree/master/3312-number-of-changing-keys) |
 ## Heap (Priority Queue)
