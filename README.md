@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/scofieldmr/leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/scofieldmr/leet-code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/scofieldmr/leet-code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1137-height-checker](https://github.com/scofieldmr/leet-code/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/scofieldmr/leet-code/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/scofieldmr/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/scofieldmr/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/scofieldmr/leet-code/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/scofieldmr/leet-code/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/scofieldmr/leet-code/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/scofieldmr/leet-code/tree/master/1137-height-checker) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/scofieldmr/leet-code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3226-minimum-number-game](https://github.com/scofieldmr/leet-code/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/scofieldmr/leet-code/tree/master/3321-type-of-triangle) |
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/scofieldmr/leet-code/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/scofieldmr/leet-code/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
