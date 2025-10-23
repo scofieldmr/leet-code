@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/scofieldmr/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/scofieldmr/leet-code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/scofieldmr/leet-code/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/scofieldmr/leet-code/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/scofieldmr/leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/scofieldmr/leet-code/tree/master/0657-robot-return-to-origin) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/scofieldmr/leet-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/scofieldmr/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/scofieldmr/leet-code/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/scofieldmr/leet-code/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/scofieldmr/leet-code/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/scofieldmr/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/scofieldmr/leet-code/tree/master/0861-flipping-an-image) |
