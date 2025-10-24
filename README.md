@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/scofieldmr/leet-code/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/scofieldmr/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/scofieldmr/leet-code/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/scofieldmr/leet-code/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/scofieldmr/leet-code/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/scofieldmr/leet-code/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/scofieldmr/leet-code/tree/master/0724-find-pivot-index) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/scofieldmr/leet-code/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/scofieldmr/leet-code/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/scofieldmr/leet-code/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/scofieldmr/leet-code/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/scofieldmr/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/scofieldmr/leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/scofieldmr/leet-code/tree/master/2497-maximum-matching-of-players-with-trainers) |
