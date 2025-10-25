@@ -8,12 +8,12 @@ class Solution {
             sep.append(separator);
             String [] sparts = word.split(sep.toString());
 
-
-            for(int j=0;j<sparts.length;j++){
+              for(int j=0;j<sparts.length;j++){
                    if(sparts[j].length()>=1){
                        list.add(sparts[j]);
                    }
             }
+            
         }
 
 
