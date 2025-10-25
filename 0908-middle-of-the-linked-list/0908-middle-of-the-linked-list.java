@@ -10,17 +10,16 @@
  */
 class Solution {
      public ListNode middleNode(ListNode head) {
-       //Using slow and fast pointers
-       ListNode slow = head;
-       ListNode fast = head;
+        
+        ListNode slow = head;
+        ListNode fast = head;
 
-       while(fast!=null && fast.next!=null){
-          slow = slow.next;
-          fast = fast.next.next;
-       }
+        while(fast!=null && fast.next!=null){
+            slow= slow.next;
+            fast = fast.next.next;
+        }
 
-       return slow;
-      
+        return slow;
      }
      //Using the length of the linked list
     // public ListNode middleNode(ListNode head) {
