@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/scofieldmr/leet-code/tree/master/2714-left-and-right-sum-differences) |
 | [2777-find-the-distinct-difference-array](https://github.com/scofieldmr/leet-code/tree/master/2777-find-the-distinct-difference-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/scofieldmr/leet-code/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2881-split-strings-by-separator](https://github.com/scofieldmr/leet-code/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/scofieldmr/leet-code/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/scofieldmr/leet-code/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/scofieldmr/leet-code/tree/master/3321-type-of-triangle) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/scofieldmr/leet-code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/scofieldmr/leet-code/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/scofieldmr/leet-code/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2881-split-strings-by-separator](https://github.com/scofieldmr/leet-code/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/scofieldmr/leet-code/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/scofieldmr/leet-code/tree/master/3312-number-of-changing-keys) |
 ## Heap (Priority Queue)
