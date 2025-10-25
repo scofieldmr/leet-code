@@ -22,7 +22,7 @@ class Solution {
             }
         }
 
-        map.entrySet().stream().sorted();
+        // map.entrySet().stream().sorted();
 
         for(List<String> entry : map.values()){
             if(!entry.isEmpty()){
