@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/scofieldmr/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/scofieldmr/leet-code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/scofieldmr/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/scofieldmr/leet-code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/scofieldmr/leet-code/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/scofieldmr/leet-code/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/scofieldmr/leet-code/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/scofieldmr/leet-code/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/scofieldmr/leet-code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/scofieldmr/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/scofieldmr/leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/scofieldmr/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/scofieldmr/leet-code/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/scofieldmr/leet-code/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/scofieldmr/leet-code/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/scofieldmr/leet-code/tree/master/0680-valid-palindrome-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/scofieldmr/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/scofieldmr/leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/scofieldmr/leet-code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
