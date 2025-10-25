@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/scofieldmr/leet-code/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/scofieldmr/leet-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/scofieldmr/leet-code/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/scofieldmr/leet-code/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/scofieldmr/leet-code/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/scofieldmr/leet-code/tree/master/0728-self-dividing-numbers) |
@@ -455,4 +456,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/scofieldmr/leet-code/tree/master/1137-height-checker) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/scofieldmr/leet-code/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/scofieldmr/leet-code/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
