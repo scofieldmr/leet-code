@@ -12,7 +12,7 @@ class Solution {
     public ListNode sortList(ListNode head) {
         if (head == null || head.next == null) {
           return head;
-      }
+        }
 
         ListNode middle = getMiddle(head);
         ListNode rightHead = middle.next;
@@ -66,3 +66,29 @@ class Solution {
         return slow;
     }
 }
+
+//Bubble sort
+//  public ListNode sortList(ListNode head) {
+//         if (head == null || head.next == null) {
+//             return head;
+//         }
+//         boolean swapped;
+//         ListNode tail = null;
+
+//         do{
+//             swapped = false;
+//             ListNode curr = head;
+//             while(curr != null && curr.next != null) {
+//                 if(curr.val > curr.next.val) {
+//                     int temp = curr.val;
+//                     curr.val = curr.next.val;
+//                     curr.next.val = temp;
+//                     swapped = true;
+//                 }
+//                 curr = curr.next;
+//             }
+//         }while(swapped);
+
+//         return head;
+//     }
+//}
