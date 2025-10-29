@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/scofieldmr/leet-code/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/scofieldmr/leet-code/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/scofieldmr/leet-code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/scofieldmr/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/scofieldmr/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1547-destination-city](https://github.com/scofieldmr/leet-code/tree/master/1547-destination-city) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/scofieldmr/leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/scofieldmr/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/scofieldmr/leet-code/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/scofieldmr/leet-code/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/scofieldmr/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/scofieldmr/leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
