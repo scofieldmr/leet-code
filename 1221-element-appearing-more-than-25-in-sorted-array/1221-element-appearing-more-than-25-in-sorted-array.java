@@ -1,34 +1,45 @@
 class Solution {
     public int findSpecialInteger(int[] arr) {
 
-        if(arr.length==1){
-            return arr[0];
+        int length = arr.length;
+        int quart = length/4;
+
+        for(int i=0;i<length-quart;i++){
+            if(arr[i]==arr[i+quart]){
+                return arr[i];
+            }
         }
 
-        int maxCount = Integer.MIN_VALUE;
-        int max = Integer.MIN_VALUE;
-        int curr = arr[0];
-        int currcount = 1;
+        return -1;
+
+        // if(arr.length==1){
+        //     return arr[0];
+        // }
+
+        // int maxCount = Integer.MIN_VALUE;
+        // int max = Integer.MIN_VALUE;
+        // int curr = arr[0];
+        // int currcount = 1;
         
-        for(int i=1;i<arr.length;i++){
-            if(arr[i]==curr){
-                currcount++;
-            }
-            else{
-                if(currcount>maxCount){
-                    max = curr;
-                    maxCount = currcount;
-                }
-                curr = arr[i];
-                currcount = 1;
-            }
-        }
+        // for(int i=1;i<arr.length;i++){
+        //     if(arr[i]==curr){
+        //         currcount++;
+        //     }
+        //     else{
+        //         if(currcount>maxCount){
+        //             max = curr;
+        //             maxCount = currcount;
+        //         }
+        //         curr = arr[i];
+        //         currcount = 1;
+        //     }
+        // }
 
-        if(currcount>maxCount){
-            max = curr;
-        }
+        // if(currcount>maxCount){
+        //     max = curr;
+        // }
 
-        return max;
+        // return max;
 
         //using Map
         // Map<Integer,Integer> map = new HashMap<>();
