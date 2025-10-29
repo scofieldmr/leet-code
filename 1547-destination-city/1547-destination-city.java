@@ -7,7 +7,6 @@ class Solution {
             start.add(city.get(0));
         }
 
-
         for(List<String> city : paths){
             String dest = city.get(1);
             if(!start.contains(dest)){
