@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/scofieldmr/leet-code/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/scofieldmr/leet-code/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/scofieldmr/leet-code/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/scofieldmr/leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/scofieldmr/leet-code/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/scofieldmr/leet-code/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/scofieldmr/leet-code/tree/master/0861-flipping-an-image) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/scofieldmr/leet-code/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/scofieldmr/leet-code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/scofieldmr/leet-code/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/scofieldmr/leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/scofieldmr/leet-code/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
