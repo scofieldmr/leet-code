@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/scofieldmr/leet-code/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/scofieldmr/leet-code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/scofieldmr/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1260-day-of-the-year](https://github.com/scofieldmr/leet-code/tree/master/1260-day-of-the-year) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/scofieldmr/leet-code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1547-destination-city](https://github.com/scofieldmr/leet-code/tree/master/1547-destination-city) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/scofieldmr/leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/scofieldmr/leet-code/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/scofieldmr/leet-code/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/scofieldmr/leet-code/tree/master/1013-fibonacci-number) |
+| [1260-day-of-the-year](https://github.com/scofieldmr/leet-code/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/scofieldmr/leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/scofieldmr/leet-code/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/scofieldmr/leet-code/tree/master/1610-xor-operation-in-an-array) |
