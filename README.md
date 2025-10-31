@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/scofieldmr/leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/scofieldmr/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/scofieldmr/leet-code/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/scofieldmr/leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/scofieldmr/leet-code/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/scofieldmr/leet-code/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/scofieldmr/leet-code/tree/master/0451-sort-characters-by-frequency) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/scofieldmr/leet-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/scofieldmr/leet-code/tree/master/0292-nim-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/scofieldmr/leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/scofieldmr/leet-code/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/scofieldmr/leet-code/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/scofieldmr/leet-code/tree/master/0728-self-dividing-numbers) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/scofieldmr/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/scofieldmr/leet-code/tree/master/0338-counting-bits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/scofieldmr/leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/scofieldmr/leet-code/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/scofieldmr/leet-code/tree/master/0861-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/scofieldmr/leet-code/tree/master/1610-xor-operation-in-an-array) |
