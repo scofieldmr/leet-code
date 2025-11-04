@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/scofieldmr/leet-code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/scofieldmr/leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/scofieldmr/leet-code/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/scofieldmr/leet-code/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/scofieldmr/leet-code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/scofieldmr/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/scofieldmr/leet-code/tree/master/0260-single-number-iii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/scofieldmr/leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/scofieldmr/leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/scofieldmr/leet-code/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/scofieldmr/leet-code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/scofieldmr/leet-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/scofieldmr/leet-code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/scofieldmr/leet-code/tree/master/0292-nim-game) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/scofieldmr/leet-code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/scofieldmr/leet-code/tree/master/0258-add-digits) |
 ## Queue
 |  |
@@ -513,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/scofieldmr/leet-code/tree/master/0292-nim-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/scofieldmr/leet-code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
