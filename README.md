@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/scofieldmr/leet-code/tree/master/2032-largest-odd-number-in-string) |
 | [2238-a-number-after-a-double-reversal](https://github.com/scofieldmr/leet-code/tree/master/2238-a-number-after-a-double-reversal) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/scofieldmr/leet-code/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2507-number-of-common-factors](https://github.com/scofieldmr/leet-code/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/scofieldmr/leet-code/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/scofieldmr/leet-code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/scofieldmr/leet-code/tree/master/2645-pass-the-pillow) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/scofieldmr/leet-code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/scofieldmr/leet-code/tree/master/0258-add-digits) |
+| [2507-number-of-common-factors](https://github.com/scofieldmr/leet-code/tree/master/2507-number-of-common-factors) |
 ## Queue
 |  |
 | ------- |
@@ -521,4 +523,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/scofieldmr/leet-code/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/scofieldmr/leet-code/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
